@@ -141,6 +141,12 @@ canvas{
     font-size: 20px;
     line-height: 1.5;
 }
+#page1>#text2{
+    position: absolute;
+    top: 55%;
+    right: 10%;
+    text-align: end;
+}
 #page1>#left-text>h3{
     color: #7c7c7c;
     font-weight: 50;
