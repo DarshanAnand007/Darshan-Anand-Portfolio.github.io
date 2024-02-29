@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Darshan-Anand-Portfolio.github.io/static/css/main.63f21157.css",
+    "main.js": "/Darshan-Anand-Portfolio.github.io/static/js/main.72a8f5bf.js",
+    "static/media/stockvectormachinelearninglogoneuronsconnectionssynapsesemblemneuralnetworkisolatedhumanbrain1743390782-1@2x.png": "/Darshan-Anand-Portfolio.github.io/static/media/stockvectormachinelearninglogoneuronsconnectionssynapsesemblemneuralnetworkisolatedhumanbrain1743390782-1@2x.cc762841cc2418d31364.png",
+    "index.html": "/Darshan-Anand-Portfolio.github.io/index.html",
+    "main.63f21157.css.map": "/Darshan-Anand-Portfolio.github.io/static/css/main.63f21157.css.map",
+    "main.72a8f5bf.js.map": "/Darshan-Anand-Portfolio.github.io/static/js/main.72a8f5bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f21157.css",
+    "static/js/main.72a8f5bf.js"
+  ]
+}
